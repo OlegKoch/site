@@ -1,0 +1,103 @@
+body {
+	margin: 0;
+	background:url('../img/5.gif');
+	padding: 30px;
+}
+.block {
+	background: rgba(255, 255, 255, 0.2) ;
+	height: 850px;
+	width: 830px;
+	margin-left: auto;
+    margin-right: 450px;
+	border-radius: 15px;
+	box-shadow: 0 0 10px #000;
+	max-width: 100%;
+
+}
+
+
+
+.VK {
+	height: 75px;
+	margin: 20px 10px 10px 10px;	
+
+}
+
+.text {
+	font-size: 50px;
+	text-decoration: none;
+	margin:50px 0 0 0;
+	vertical-align: 30px;
+	max-width: 100%;
+	font-family: 'PT Sans';
+	color: #ffffff;
+ 	text-shadow: 0 0 5px #ffffff, 0 0 10px #ffffff, 0 0 20px #ffffff, 0 0 40px #0000ff, 0 0 80px #0000ff, 0 0 90px #0000ff, 0 0 100px #0000ff, 0 0 150px #0000ff;
+
+}
+
+.text:hover {
+	opacity: 0.6;
+}
+   
+
+.INST {
+	height: 79px;
+	margin: 10px 5px 10px 10px;
+
+
+
+}
+
+.text1 {
+	font-size: 50px;
+	text-decoration: none;
+	margin-left: 8px;
+	vertical-align: 35px;
+	max-width: 100%;
+	font-family: 'PT Sans';
+	color: #ffffff;
+ 	text-shadow: 0 0 5px #ffffff, 0 0 10px #ffffff, 0 0 20px #ffffff, 0 0 40px #ff00de, 0 0 80px #ff00de, 0 0 90px #ff00de, 0 0 100px #ff00de, 0 0 150px #ff00de;
+}
+
+.text1:hover {
+	opacity: 0.6;
+}
+
+
+.YT {
+	height: 55px;
+	margin: 20px 5px 10px 10px;
+	max-width: 100%;
+}
+
+
+.text2 {
+	font-size: 50px;
+	text-decoration: none;
+	margin-left: 10px;
+	vertical-align: 18px;
+	max-width: 100%;
+	font-family: 'PT Sans';
+	color: #ffffff;
+ 	text-shadow: 0 0 5px #ffffff, 0 0 10px #ffffff, 0 0 20px #ffffff, 0 0 40px #ff0000, 0 0 80px #ff0000, 0 0 90px #ff0000, 0 0 100px #ff0000, 0 0 150px #ff0000;
+}
+
+.text2:hover {
+	opacity: 0.6;
+}
+
+.photo {
+	height: 500px;
+	margin: 20px 0px 0px 20px;
+	border-radius: 15px;
+	box-shadow: 0 0 10px #000;
+	max-width: 100%;
+}
+
+.matrix {
+	font-size: 27px;
+	text-align: center;
+	font-family: 'PT Sans' ;
+	color: #fff;
+ 
+}
